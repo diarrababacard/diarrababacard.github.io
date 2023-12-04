@@ -7,7 +7,7 @@ menu.onclick = () => {
 }
 setTimeout(() => {
     document.querySelector('.preloader').style.display ="none"
-}, 2000);
+}, 3950);
 
 
 
